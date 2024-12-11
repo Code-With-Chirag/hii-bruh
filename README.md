@@ -1,2 +1,2 @@
-# hii-bruh
-I am learning python
+# AI Enthusiast
+
